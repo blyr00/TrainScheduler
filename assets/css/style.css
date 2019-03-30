@@ -1,0 +1,18 @@
+h1 {
+	/*color: #F70201;*/
+	text-shadow: 3px 3px rgb(238, 119, 119);
+	font-weight: bold;
+}
+
+h4,h5 {
+	text-shadow: 1px 1px rgb(238, 119, 119);
+}
+
+img {
+	border: 3px solid white;
+}
+
+.btn.btn-primary {
+	text-shadow: .25px .25px rgb(238, 119, 119);
+	border: 1.25px solid rgb(238, 119, 119);
+}
